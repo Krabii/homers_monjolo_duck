@@ -1,6 +1,10 @@
 # Homer's Monjolo Duck
 ## A random mouse movement application to fake presence at work in a remote setting
 
+
+Monjolo: A water scoop, simple hydropower machine that uses power to from the flow of water to drive a machine intermittently.
+
+
 ### Installation
 
 #### Linux
@@ -10,8 +14,11 @@
 Note: You might have to `sudo` all the above
 
 #### Mac
-you shouldn't be faking work presence, you actually need to work to make many for your next Macbook which I heard will be even more expensive.
+You shouldn't be faking work presence, you actually need to work to make money for your next Macbook which I heard will be very expensive.
 
 #### Windows
 * Install a Linux distribution
 * Follow Linux instalation
+
+### Usage
+After installing run `homers_monjolo.sh` from any open terminal. Enjoy slacking at work...
