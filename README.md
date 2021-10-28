@@ -2,7 +2,7 @@
 ## A random mouse movement application to fake presence at work in a remote setting
 
 
-Monjolo: A water scoop, simple hydropower machine that uses power to from the flow of water to drive a machine intermittently.
+Monjolo: A water scoop, simple hydropower machine that uses power from the flow of water to drive a machine intermittently.
 
 
 ### Installation
@@ -21,4 +21,4 @@ You shouldn't be faking work presence, you actually need to work to make money f
 * Follow Linux instalation
 
 ### Usage
-After installing run `homers_monjolo.sh` from any open terminal. Enjoy slacking at work...
+After installing, run `homers_monjolo.sh` from any open terminal. Enjoy slacking at work...
